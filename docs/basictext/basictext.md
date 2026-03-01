@@ -43,7 +43,7 @@ Traditions of Alcoholics Anonymous, the principles upon which our A.A.
 groups function, together with the directions for getting in touch with
 A.A.
 
-## 1ST FOREWORD
+### 1ST FOREWORD
 
 *This is the Foreword as it appeared in the first printing of the first
 edition in 1939.*
@@ -85,7 +85,7 @@ welcomed.
 
 ALCOHOLICS ANONYMOUS
 
-## 2ND FOREWORD
+### 2ND FOREWORD
 
 The fellowship grows large and beyond the U.S borders. Bill's sobriety
 is mentioned in conjuction with Silkworth, followed by Bill's meeting of
@@ -278,7 +278,7 @@ great hope that all those who have as yet found no answer may begin to
 find one in the pages of this book and will presently join us on the
 high road to a new freedom.
 
-## THE DOCTOR'S OPINION
+### THE DOCTOR'S OPINION
 
 WE OF Alcoholics Anonymous believe that the reader will be interested in
 the medical estimate of the plan of recovery described in this book.
@@ -519,7 +519,7 @@ perhaps he came to scoff, he may remain to pray.
 
 William D. Silkworth, M.D.
 
-## The 165
+## The First 165
 
 ### CHAPTER 1 BILL'S STORY
 

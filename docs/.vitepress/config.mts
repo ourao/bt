@@ -8,7 +8,7 @@ const vitePressOptions = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Basic Text', link: '/basictext/basictext' },
+      { text: 'Basic Texts', link: '/basictext/basictext' },
     ],
     outline: [2,4],
     repo: 'ourao/buna-wik',
