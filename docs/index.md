@@ -9,9 +9,9 @@ hero:
     src: /img/logo.svg
     alt: Basic Texts Of Alcoholics
   actions:
-    - theme: Pure Basic Text
-      text: Guides
-      link: /guides/formats
+    - theme: brand
+      text: Pure Basic Text
+      link: /basictext/basictext
     - theme: alt
       text: Basic Text External
       link: https://www.aa.org/the-big-book
