@@ -21,10 +21,10 @@ hero:
 
 
 features:
-  - title: -
-    details: -
-  - title: -
-    details: -
-  - title: -
-    details: -
+  - title: ""
+    details: ""
+  - title: ""
+    details: ""
+  - title: ""
+    details: ""
 ---
